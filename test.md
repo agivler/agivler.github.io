@@ -1,6 +1,6 @@
 ---
 title: This is a test
-theme: modernist
+layout: modernist
 ---
 
 <!--<table align="center" border="3" width="95%">
