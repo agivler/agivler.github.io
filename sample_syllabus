@@ -1,0 +1,71 @@
+
+\documentclass[fleqn, letterpaper]{article}
+\usepackage{amssymb,amsmath}
+\usepackage[left=2.3cm,top=2.3cm,right=2.3cm,nohead,nofoot]{geometry}
+\usepackage{verbatim}
+\usepackage{ulem}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\usepackage{tabu}
+\usepackage{url}
+
+%\title{Recitation Syllabus}
+
+\begin{document}
+%\maketitle
+\noindent
+
+
+
+
+\begin{center}\textbf{Sample Recitation Syllabus}\end{center}
+
+\noindent
+\begin{bf}
+Math 1234, Prof. Newton
+
+Sections 1,2,3, \& 4
+
+Fall 2013
+\end{bf}
+
+\vspace{.5 cm}
+
+\noindent
+\begin{tabular}{rl}
+
+\bf{Recitation Instructor:} & Roger Cotes \\
+
+\bf{E-mail:} & rcotes@newtonsclass.com \\
+
+\bf{Office:} & Amos Eaton 432 \\
+
+\bf{Office Hours:} & MF 2:00 pm - 3:00 pm, or by appointment \\
+
+\bf{Course Website:} & \url{www.newtonsclass.com/math_1234} \\
+
+\end{tabular}
+
+\vspace{.5 cm}
+
+{\bfseries Class Schedule:} \begin{tabular}{rl}
+Lectures: & MWR 12 - 12:50 PM in Darrin 308\\
+Section 1 Recitation: & T 10 - 10:50 AM in Low 3130 \\
+Section 2 Recitation: & T 11 - 11:50 in Low 3130 \\
+Section 3 Recitation: & F 10 - 10:50 AM in Low 4040 \\
+Section 4 Recitation: & F 11 - 11:50 in Low 3130 \\
+\end{tabular}
+
+\vspace{.5 cm}
+
+
+\noindent
+{\bfseries Course Policies:} Course policies, including grading policies can be found on the course website.
+
+\vspace{.5 cm}
+
+\noindent
+{\bfseries Recitation Policis:} Quizzes will be handed out at the beginning of each recitation and will last for 10 minutes. Calculators are allowed. Students arriving late will not be given additional time. Quizzes can be made up in the case of illness if a doctor's note is provided. Any grading questions (e.g. regrades) must be brought to my attention within one (1) week of receiving the graded assignment. Prof. Newton is in charge of final grades; I cannot alter your course grade in any way. The university's honor policy will be in effect for all graded assignments. 
+
+\end{document}
+
