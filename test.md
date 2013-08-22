@@ -1,5 +1,6 @@
 ---
 title: This is a test
+layout: modernist
 ---
 
 <!--<table align="center" border="3" width="95%">
