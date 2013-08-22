@@ -1,3 +1,7 @@
+---
+title: This is a test
+layout: modernist
+---
 
 ##TA Seminar Resources:
 
