@@ -8,11 +8,11 @@ layout: modernist
 ####[Syllabus](http://agivler.github.io/syllabus.pdf)
 ####LaTex Resources:
 * Sample Syllabus
-    * [Uncompiled](http://agivler.github.io/sample_syllabus)
-    * [PDF](http://agivler.github.io/sample_syllabus.pdf)
+ * [Uncompiled](http://agivler.github.io/sample_syllabus)
+ * [PDF](http://agivler.github.io/sample_syllabus.pdf)
 * Sample Quiz
-    * [Uncompiled](http://agivler.github.io/sample_quiz)
-    * [PDF](http://agivler.github.io/sample_quiz)
+ * [Uncompiled](http://agivler.github.io/sample_quiz)
+ * [PDF](http://agivler.github.io/sample_quiz)
 * [AMS Latex](http://www.ams.org/publications/authors/tex/amslatex)
 * [Guide](http://en.wikibooks.org/wiki/LaTeX)
 * [Math Guide](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf)
